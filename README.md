@@ -11,8 +11,8 @@ This repository contains an example React project showcasing the integration of 
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/your-project.git
-cd your-project
+https://github.com/soroush32r/Mind_Writer.git
+cd Mind_Writer
 ```
 2. Install dependencies:
 ```
