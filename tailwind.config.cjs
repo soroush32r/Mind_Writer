@@ -7,7 +7,7 @@ module.exports = {
       'sans': ['ui-sans-serif', 'system-ui'],
       'serif': ['ui-serif', 'Georgia'],
       'mono': ['ui-monospace', 'SFMono-Regular'],
-      'display': ['Caveat'],
+      'display': ['Caveat','ui-sans-serif'],
       'body': ['"Open Sans"'],
     },
     extend: {},
