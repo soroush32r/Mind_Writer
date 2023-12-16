@@ -8,7 +8,7 @@ module.exports = {
       'serif': ['ui-serif', 'Georgia'],
       'mono': ['ui-monospace', 'SFMono-Regular'],
       'display': ['Caveat','ui-sans-serif'],
-      'body': ['"Open Sans"'],
+      'body': ['Open Sans'],
     },
     extend: {},
   },
